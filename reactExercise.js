@@ -32,3 +32,16 @@
 //     <p>Here's a subtitle</p>
 //   </div>
 // );
+
+//////////////////////////////////////////////////////////////////////////////////////
+// October 31st 2019 React: Render HTML Elements to the DOM //
+/////////////////////////////////////////////////////////////////////////////////////
+
+// const JSX = (
+//   <div>
+//     <h1>Hello World</h1>
+//     <p>Lets render this to the DOM</p>
+//   </div>
+// );
+// // change code below this line
+// ReactDOM.render(JSX, document.getElementById('challenge-node'))
