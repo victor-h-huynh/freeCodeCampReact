@@ -256,7 +256,34 @@
 //           </div>
 //       );
 //   };
-  
-//   } 
-  
-//   ReactDOM.render(<MyComponent/>, document.getElementById("challenge-node"))
+// }
+// ReactDOM.render(<MyComponent/>, document.getElementById("challenge-node"))
+
+//////////////////////////////////////////////////////////////////////////////////////
+// November 1st 2019 React: Pass Props to a Stateless Functional Component //
+/////////////////////////////////////////////////////////////////////////////////////
+
+// const List = (props) => {
+//   { /* change code below this line */ }
+//   return <p>{props.tasks.join(', ')}</p>
+//   { /* change code above this line */ }
+// };
+
+// class ToDo extends React.Component {
+//   constructor(props) {
+//     super(props);
+//   }
+//   render() {
+//     return (
+//       <div>
+//         <h1>To Do Lists</h1>
+//         <h2>Today</h2>
+//         { /* change code below this line */ }
+//         <List tasks={["Walk", "Cook", "Bake"]} />
+//         <h2>Tomorrow</h2>
+//         <List tasks={["Study", "Code", "Eat"]}/>
+//         { /* change code above this line */ }
+//       </div>
+//     );
+//   }
+// };
