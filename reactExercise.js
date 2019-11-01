@@ -240,3 +240,23 @@
 
 // // change code below this line
 // ReactDOM.render(<TypesOfFood/>, document.getElementById("challenge-node"))
+
+//////////////////////////////////////////////////////////////////////////////////////
+// November 1st 2019 React: Write a React Component from Scratch //
+/////////////////////////////////////////////////////////////////////////////////////
+
+// change code below this line
+
+// class MyComponent extends React.Component {
+
+//   render () {
+//       return (
+//           <div>
+//               <h1>My First React Component!</h1>
+//           </div>
+//       );
+//   };
+  
+//   } 
+  
+//   ReactDOM.render(<MyComponent/>, document.getElementById("challenge-node"))
