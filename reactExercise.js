@@ -68,3 +68,19 @@
 //     <hr />
 //   </div>
 // );
+
+//////////////////////////////////////////////////////////////////////////////////////
+// November 1st 2019 React: Create a Stateless Functional Components //
+/////////////////////////////////////////////////////////////////////////////////////
+
+// const MyComponent = function() {
+//   // change code below this line
+
+// return (
+//   <div>
+//     <h1>This is a string</h1>
+//   </div>
+// )
+
+//   // change code above this line
+// }
